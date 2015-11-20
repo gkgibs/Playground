@@ -14,8 +14,13 @@
 		
 	}
 	
+
 	function merge2() {
+	}
 		
+
+	function merge3() {
+
 	}
 	
 }(jQuery));
