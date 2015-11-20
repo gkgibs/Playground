@@ -23,4 +23,7 @@
 
 	}
 	
+	function merge4() {
+	}
+	
 }(jQuery));
