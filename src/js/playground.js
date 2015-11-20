@@ -14,4 +14,8 @@
 		
 	}
 	
+	function merge2() {
+		
+	}
+	
 }(jQuery));
