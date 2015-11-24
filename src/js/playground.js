@@ -26,4 +26,7 @@
 	function merge4() {
 	}
 	
+	function merge5() {
+	}
+	
 }(jQuery));
